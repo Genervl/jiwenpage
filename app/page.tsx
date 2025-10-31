@@ -144,7 +144,7 @@ export default function LandingPage() {
             </div>
             <div className="relative h-[400px] w-full rounded-lg overflow-hidden shadow-xl">
               <Image
-                src="/Image1.jpg?height=800&width=600"
+                src="/Image3.jpeg?height=800&width=600"
                 alt="Women entrepreneurs collaborating"
                 fill
                 className="object-cover"
